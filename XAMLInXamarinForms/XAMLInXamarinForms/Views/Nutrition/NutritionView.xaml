@@ -8,4 +8,7 @@
              xmlns:nutritionviews="clr-namespace:XAMLInXamarinForms.Views.Nutrition">
     <TabbedPage.Title>Nutrition</TabbedPage.Title>
     <nutritionviews:BreakfastView/>
+    <nutritionviews:LunchView/>
+    <nutritionviews:DinnerView/>
+    <nutritionviews:SnackView/>
 </TabbedPage>
