@@ -7,4 +7,5 @@
              x:Class="XAMLInXamarinForms.Views.Nutrition.NutritionView"
              xmlns:nutritionviews="clr-namespace:XAMLInXamarinForms.Views.Nutrition">
     <TabbedPage.Title>Nutrition</TabbedPage.Title>
+    <nutritionviews:BreakfastView/>
 </TabbedPage>
