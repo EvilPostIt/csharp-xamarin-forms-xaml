@@ -5,9 +5,9 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
             xmlns:nutritionviews="clr-namespace:XAMLInXamarinForms.Views.Nutrition"
              mc:Ignorable="d"
-             x:Class="XAMLInXamarinForms.Views.Nutrition.NutritionView"
-            Title="Nutrition">
-  <!--Pages can be added as references or inline-->
+             x:Class="XAMLInXamarinForms.Views.Nutrition.NutritionView">
+    <TabbedPage.Title>"Nutrition"</TabbedPage.Title>
+        <!--Pages can be added as references or inline-->
   <ContentPage Title="Tab 1" />
   <ContentPage Title="Tab 2" />
   <ContentPage Title="Tab 3" />
